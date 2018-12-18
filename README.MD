@@ -1,5 +1,4 @@
 # RV_ST7735
-
 ИСПОЛЬЗОВАНИЕ БИБЛИОТЕКИ:
 1. Создать проект STM32CubeMX и настроить 4 вывода в режиме GPIO Output, Output Push Pull, No pull-up and no pull-down (удобно присвоить им имена). SPI1 в режиме Half-Duplex Master
 2. Сгенерировать проект
